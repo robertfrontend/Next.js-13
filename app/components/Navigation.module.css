@@ -1,0 +1,15 @@
+.header {
+  border: 1px solid #f0f0f0;
+  border-radius: 4px;
+  padding: 1em;
+}
+
+.navigation {
+  display: flex;
+  list-style: none;
+  gap: 1em;
+}
+
+.navigation a {
+    color: #f0f0f0dc;
+}
