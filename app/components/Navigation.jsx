@@ -14,6 +14,10 @@ const links = [
     label: "Posts",
     route: "/posts",
   },
+  {
+    label: "Profile",
+    route: "/profile",
+  },
 ];
 export default function Navigation() {
   return (
